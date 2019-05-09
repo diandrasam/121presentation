@@ -1,1 +1,1 @@
-# 121presentation
+# Math 121: A Presentation on Muller's Method
